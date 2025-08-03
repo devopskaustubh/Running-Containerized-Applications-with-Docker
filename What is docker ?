@@ -5,4 +5,4 @@ docker makes it really easy to install and run software without worrying about s
 an image is a standalone , isolated , lightweight and executable package that contains all requierd components (code , runtime , system tools , libraries , settings ) necessary to run an application 
 the container is the runtime instance of the image. from the same image your can launch more containers
 image of many applications can be found on https://hub.docker.com
-https://github.com/devopskaustubh/Running-Containerized-Applications-with-Docker/blob/33f0db4d4d60605a1ff198068b7604177363bc12/Screenshot%202025-08-03%20110715.jpg
+Screenshot 2025-08-03 110715.jpg
