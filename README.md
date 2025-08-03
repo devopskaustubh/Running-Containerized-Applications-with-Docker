@@ -1,7 +1,7 @@
 # Running-Containerized-Applications-with-Docker
 **Documentation** 
-
 What is docker ?
+
 docker is a platform for developers and sysadmins used to develop , deploy and run containerized applications 
 a container is a running process that encapsulates everything an application need to run 
 docker makes it really easy to install and run software without worrying about setup or dependencies
